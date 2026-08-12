@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Sainath52/Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Sainath52/Problem_Solving/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Sainath52/Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Sainath52/Problem_Solving/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Sainath52/Problem_Solving/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Sainath52/Problem_Solving/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Sainath52/Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
