@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Sainath52/Problem_Solving/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Sainath52/Problem_Solving/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Sainath52/Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sainath52/Problem_Solving/tree/main/0216-combination-sum-iii/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Sainath52/Problem_Solving/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Sainath52/Problem_Solving/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Sainath52/Problem_Solving/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Sainath52/Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
@@ -33,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0047-permutations-ii/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Sainath52/Problem_Solving/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
