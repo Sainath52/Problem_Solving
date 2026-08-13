@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Sainath52/Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sainath52/Problem_Solving/tree/main/0216-combination-sum-iii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Sainath52/Problem_Solving/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0052-n-queens-ii/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
