@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Sainath52/Problem_Solving/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Sainath52/Problem_Solving/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sainath52/Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/Sainath52/Problem_Solving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sainath52/Problem_Solving/tree/main/0216-combination-sum-iii/) | Medium |
@@ -49,9 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sainath52/Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sainath52/Problem_Solving/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
