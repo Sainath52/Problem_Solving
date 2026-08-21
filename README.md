@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sainath52/Problem_Solving/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sainath52/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Sainath52/Problem_Solving/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
